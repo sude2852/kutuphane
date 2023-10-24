@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+C:\Users\User\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+C:\Users\User\source\repos\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\User\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+C:\Users\User\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+C:\Users\User\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
+C:\Users\User\source\repos\kutuphane\kutuphane\obj\Debug\kutuphane.FrmMain.resources
